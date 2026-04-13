@@ -1,0 +1,8 @@
+flask
+pdfplumber
+rembg
+playwright
+playwright-stealth
+pillow
+pillow-avif-plugin
+onnxruntime
